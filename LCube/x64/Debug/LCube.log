@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  LCube.cpp
+  bullet.cpp
+  enemy.cpp
+d:\users\josh kaufman\documents\josh k\lcube\lcube\enemy.cpp(46): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\users\josh kaufman\documents\josh k\lcube\lcube\enemy.cpp(47): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  player.cpp
+  tile.cpp
+  title.cpp
+  ui.cpp
+  Generating Code...
+  LCube.vcxproj -> D:\Users\Josh Kaufman\Documents\Josh K\LCube\x64\Debug\LCube.exe
